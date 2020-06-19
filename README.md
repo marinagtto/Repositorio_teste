@@ -1,2 +1,2 @@
-# Repositorio_teste
- Primeiro repositóirio.
+# Repositório_teste
+ Primeiro repositório criado com sucesso.
