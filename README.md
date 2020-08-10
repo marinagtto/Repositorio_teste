@@ -32,3 +32,5 @@ Programa em Python: :sun_with_face:
 ``` 
 print('Hello world')
 ```
+
+*Referências: Curso em Vídeo (Youtube)*
